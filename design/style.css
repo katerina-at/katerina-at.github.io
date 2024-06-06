@@ -1,0 +1,61 @@
+img{
+    width: 100%;
+
+}
+body{
+   background-color: black;
+   color: antiquewhite;
+
+
+}
+.text-top{
+    background-color:rgba(6, 130, 60, 0.349);
+    color: antiquewhite;
+}
+.logo-text{
+     background-color: rgba(6, 112, 54, 0.329);
+    color: antiquewhite;
+    
+}
+.nav-link{
+    color: rgb(112, 112, 112);
+}
+.zoom{
+    transition: 0.5s;
+}
+.zoom:hover{
+    transform: scale(1.5);
+}
+.overflow{
+    overflow: hidden;
+    transition: 0.5s;
+}
+.overflow:hover{
+    box-shadow: 0px 0px 15px 15px  rgba(6, 112, 54, 0.487);
+
+}
+.bbbb{
+    border-bottom: 1px solid white;
+}
+
+
+   /* для нижньої панелі */
+   .footer {
+    background-color:rgba(6, 130, 60, 0.349);
+    padding: 30px 0;
+    margin-top: 50px;
+}
+
+.socio-link {
+    font-size: 2rem;
+    color: #d5d5d5;
+    margin: 10px;
+}
+
+.socio-link:hover {
+    color: white;
+    
+}
+.footer p{
+    color: #d5d5d5;
+}
